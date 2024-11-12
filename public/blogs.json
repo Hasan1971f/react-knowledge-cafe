@@ -1,60 +1,55 @@
 [
     {
       "id": 101,
-      "cover": "cover_image_1.jpg",
+      "cover": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg",
       "title": "The Art of Code",
-      "author": {
-        "name": "John Doe",
-        "img": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg"
-      },
-      "posted_date": "2024-11-10",
+       "author_img": "src/assets/images/boy1.png",
+      "author": "John Doe",
+      "posted_date": "june 5, 2023",
       "reading_time": "5 min",
-      "hashtags": ["#Coding", "#WebDevelopment", "#Tech"]
+     "hashtags":[
+      "development",
+      "resources"
+     ]
+       
+      
     },
     {
       "id": 102,
-      "cover": "cover_image_2.jpg",
+      "cover": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg",
       "title": "Exploring React",
-      "author": {
-        "name": "Jane Smith",
-        "img": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg"
-      },
+       "author_img": "src/assets/images/girl1.jpg",
+       "author": "Jane Smith", 
       "posted_date": "2024-11-09",
       "reading_time": "8 min",
       "hashtags": ["#React", "#JavaScript", "#Frontend"]
     },
     {
       "id": 103,
-      "cover": "cover_image_3.jpg",
+      "cover": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg",
       "title": "Mastering Algorithms",
-      "author": {
-        "name": "Alex Turner",
-        "img": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg"
-      },
+        "author_img": "src/assets/images/boy2.png",
+      "author": "Alex Turner", 
       "posted_date": "2024-11-08",
       "reading_time": "10 min",
       "hashtags": ["#Algorithms", "#DataStructures", "#Programming"]
     },
     {
       "id": 104,
-      "cover": "cover_image_4.jpg",
+      "cover": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg",
       "title": "The Future of AI",
-      "author": {
-        "name": "Maria Gomez",
-        "img": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg"
-      },
+       "author_img": "src/assets/images/4.jpg",
+      "author":  "Maria Gomez", 
       "posted_date": "2024-11-07",
       "reading_time": "7 min",
       "hashtags": ["#AI", "#MachineLearning", "#TechTrends"]
     },
     {
       "id": 105,
-      "cover": "cover_image_5.jpg",
+      "cover": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg",
       "title": "A Guide to Web Security",
-      "author": {
-        "name": "Michael Lee",
-        "img": "https://i.ibb.co.com/z2cTRBR/cheerful-cute-redhead-curly-girlfriend-holding-popcorn-chat-with-boyfriend-before-movie-start-cin.jpg"
-      },
+       "author_img": "src/assets/images/3.png",
+      "author": "Michael Lee", 
       "posted_date": "2024-11-06",
       "reading_time": "6 min",
       "hashtags": ["#CyberSecurity", "#WebSecurity", "#TechTips"]
